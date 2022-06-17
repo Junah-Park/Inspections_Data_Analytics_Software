@@ -1,0 +1,1 @@
+A final project for the course Advanced Programming. This is a program that manipulates a local NoSQL database using advanced programming best practices; for example: preventing read-write errors and maintaining consistency.
